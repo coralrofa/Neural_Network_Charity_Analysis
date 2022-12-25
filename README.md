@@ -59,9 +59,13 @@ Information in data set:
     110 neurons split into 2 layers (75 & 35) as a starting point
 
 * Were you able to achieve the target model performance?
-    
-75_35.png
-No improvement after modifications to increase performance
+   
+   Achieved 73% performance
+
+   [Results for initial model](75_35.png)
+  
+   ![Results for initial model](Resources/75_35.png)
+   
 
 * What steps did you take to try and increase model performance?
     
@@ -71,9 +75,12 @@ No improvement after modifications to increase performance
 
     Reducing the number of epochs to the training regimen.75 & 35 Layets with 50 epochs
 
+   No improvement after modifications to increase performance
+
+
 ## Summary: 
 
-*Performance obtained 73%
+* Performance obtained 73%
 
 * Recommendations to improve model: attempt adjusting the input date
 
